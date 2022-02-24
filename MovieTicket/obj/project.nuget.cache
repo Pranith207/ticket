@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bFRI79/rujhpRs1jEiEqGSHROPYXXwN1WbfVA0u+KalRiJ5/tqss1Lcya4u76fA9wTbX8Wfl4cOSjOrljHk5Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PRADEEP\\Desktop\\MovieTicket\\MovieTicket\\MovieTicket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRADEEP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

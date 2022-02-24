@@ -1,0 +1,16 @@
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\bin\Debug\netcoreapp3.1\MovieTicket.exe
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\bin\Debug\netcoreapp3.1\MovieTicket.deps.json
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\bin\Debug\netcoreapp3.1\MovieTicket.runtimeconfig.json
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\bin\Debug\netcoreapp3.1\MovieTicket.runtimeconfig.dev.json
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\bin\Debug\netcoreapp3.1\MovieTicket.dll
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\bin\Debug\netcoreapp3.1\MovieTicket.pdb
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\obj\Debug\netcoreapp3.1\MovieTicket.csproj.AssemblyReference.cache
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\obj\Debug\netcoreapp3.1\MovieTicket.AssemblyInfoInputs.cache
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\obj\Debug\netcoreapp3.1\MovieTicket.AssemblyInfo.cs
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\obj\Debug\netcoreapp3.1\MovieTicket.csproj.CoreCompileInputs.cache
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\obj\Debug\netcoreapp3.1\MovieTicket.dll
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\obj\Debug\netcoreapp3.1\MovieTicket.pdb
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\obj\Debug\netcoreapp3.1\MovieTicket.genruntimeconfig.cache
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\obj\Debug\netcoreapp3.1\MovieTicket.csproj.CopyComplete
+C:\Users\PRADEEP\Desktop\MovieTicket\MovieTicket\obj\Debug\netcoreapp3.1\MovieTicket.GeneratedMSBuildEditorConfig.editorconfig
